@@ -1,0 +1,1 @@
+# This is a weather forecast app which shows the weather forecast for a particular place for next few days
